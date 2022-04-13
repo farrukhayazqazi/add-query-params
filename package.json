@@ -1,0 +1,24 @@
+{
+  "name": "add-query-params",
+  "version": "1.1.0",
+  "description": "A package that helps you add query parameters in your rest endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farrukhayazqazi/add-query-params.git"
+  },
+  "keywords": [
+    "add-query-params",
+    "query-params",
+    "query-parameters"
+  ],
+  "author": "Farrukh Ayaz Qazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farrukhayazqazi/add-query-params/issues"
+  },
+  "homepage": "https://github.com/farrukhayazqazi/add-query-params#readme"
+}
