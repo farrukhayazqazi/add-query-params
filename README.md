@@ -8,7 +8,7 @@ add-query-params as the name suggests is a function that returns URL with the pr
 ## Installation
 
   ```sh
-  npm i add-query-params-to-url
+  npm i add-query-params
   ```
 
 <!-- USAGE EXAMPLES -->

@@ -1,6 +1,6 @@
 {
   "name": "add-query-params",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "A package that helps you add query parameters in your rest endpoints",
   "main": "index.js",
   "scripts": {
